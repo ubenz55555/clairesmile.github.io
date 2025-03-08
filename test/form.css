@@ -1,0 +1,42 @@
+body{
+
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,0.6754901789817489) 0%, rgba(248,1,247,0.6110644086736257) 25%, rgba(185,17,190,0.7091037098433124) 80%, rgba(3,2,3,0.6586834562926733) 100%); 
+
+}
+
+.container{
+    background-color:gray;
+    padding:50px;
+    margin-top:50px;
+    margin-bottom:50px;
+    opacity: 0.9;
+
+}
+
+h1{
+    text-align: center;
+    color:rgb(21, 21, 21);
+    padding:10px;
+    
+}
+label{
+    color:black;
+    font-size:22px;
+}
+
+.btn-success{
+    background-color:blueviolet;
+}
+.btn-primary{
+    background-color:blueviolet;
+    width:100%;
+    font-size:30px;
+    padding:10px;
+}
+
+.container .row input{
+    font-size:22px;
+    color:blue;
+    border:1px solid blue;
+}
